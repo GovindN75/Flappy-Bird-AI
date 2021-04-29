@@ -1,6 +1,6 @@
 # Flappy-Bird-AI
  
-This project is built using Pygame and the NEAT Algorithm. As you can guess from the title its an AI bot that learns to play my rendition of Flappy Bird. 
+This project is built using Pygame and the NEAT Algorithm. As you can guess from the title its an AI bot that learns to play my rendition of Flappy Bird. Inspired by Tech With Tim on YT.
 
 ## Requirements(and how to install them): 
 
